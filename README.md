@@ -76,3 +76,18 @@ tbc
 ##### Note
 - For the techniques we (NextOpt team) developed, refer to the writeup folder.
 - Inventory management is within our research scope but, not in the near future.
+
+#### Publication Note
+
+- `R/2_Theta_bar_Y/DtrMngSep/DMsep_5param_test.R` >> **Our main function**
+- `R/2_Theta_bar_Y/DtrMngSep/DMsep_SBC.R` >> **SBC analysis for our model**
+- `R/utils` >> **Util functions for SBC**
+- `R/1_Y_bar_y/impute` >> **Imputation for missing data**
+- `optimize/step1/DMsep_5param.stan` >> **our stan model**
+- `data` >> **Engine failure data for our model**
+- `docs` >> **docs**
+- `vignettes` >> **stancon21?**
+
+
+
+
